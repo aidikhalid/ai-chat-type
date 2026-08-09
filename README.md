@@ -48,7 +48,7 @@ Check out the live application: [https://ai-chat-type.aidikhalid.com/](https://a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Geevee-101/ai-chat-type.git
+git clone https://github.com/aidikhalid/ai-chat-type.git
 cd ai-chat-type
 ```
 
