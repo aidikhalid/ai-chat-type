@@ -12,7 +12,7 @@ export function Footer() {
       </a>
       <span> | </span>
       <a
-        href="https://github.com/Geevee-101"
+        href="https://github.com/aidikhalid"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-primary hover:underline"
